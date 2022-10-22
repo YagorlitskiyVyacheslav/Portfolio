@@ -33,6 +33,7 @@
       "@/routes": ["constants/routes"],
       "@/permissions/*": ["permissions/*"],
       "@/layouts/*": ["layouts/*"],
+      "@/assets/*": ["assets/*"],
       "@/api/*": ["api/*"],
       "@/temp2/*": ["temp2/*"],
       "@/temp/*": ["temp/*"],
